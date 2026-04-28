@@ -25,6 +25,13 @@ This project is a desktop application built using Python Tkinter and MySQL.
 4. Run:
    python student_system.py
 
-OUTPUT IMAGES:- Screenshot 2026-04-28 223503.png
+OUTPUT IMAGES:- ![img](screenshot1.png)
+                ![img](screenshot2.png)
+                ![img](screenshot3.png)
+                ![img](screenshot4.png)
+                ![img](screenshot5.png)
+                ![img](screenshot6.png)
+                ![img](screenshot7.png)
+
 
 
